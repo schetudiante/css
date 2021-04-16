@@ -1,4 +1,6 @@
-# Introduction to Computational Social Science
+# Interesting bits about json in WEb Scraping -> parsetweets.py (Has information regarding the json (keeps only relevant tweets from time zone)
+
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/5harad/css/master?urlpath=lab)
 
